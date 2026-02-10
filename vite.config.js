@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/vite-demo/',
+  base: '/vite-demo-nat-annat/',
 })
